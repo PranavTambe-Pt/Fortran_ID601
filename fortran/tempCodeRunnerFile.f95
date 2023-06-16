@@ -1,0 +1,1 @@
+call random_seed()
